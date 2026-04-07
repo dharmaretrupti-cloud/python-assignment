@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    color:white;
+    font-size:medium
+}
+
+
+
+p{
+    color:rgb(162, 197, 197);
+}
+
+
+h1{
+    font-size:medium;
+    color:bisque;
+}
+
+div{
+    background: pink;
+}
